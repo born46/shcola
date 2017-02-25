@@ -1,0 +1,2 @@
+# shcola
+site for students
